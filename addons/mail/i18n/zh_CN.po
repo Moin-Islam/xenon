@@ -1019,8 +1019,8 @@ msgstr "头像"
 #. openerp-web
 #: code:addons/mail/static/src/components/notification_request/notification_request.xml:0
 #, python-format
-msgid "Avatar of OdooBot"
-msgstr "OdooBot的头像"
+msgid "Avatar of XenonBot"
+msgstr "XenonBot的头像"
 
 #. module: mail
 #. openerp-web

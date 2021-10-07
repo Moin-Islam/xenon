@@ -10616,8 +10616,8 @@ msgstr "Thêm ngôn ngữ"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_mail_bot
-msgid "Add OdooBot in discussions"
-msgstr "Thêm OdooBot trong các cuộc thảo luận"
+msgid "Add XenonBot in discussions"
+msgstr "Thêm XenonBot trong các cuộc thảo luận"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_sale_subscription_sepa_direct_debit
@@ -10723,8 +10723,8 @@ msgstr "Thêm thông tin UTM tiềm năng / cơ hội về gửi thư hàng lo�
 
 #. module: base
 #: model:ir.module.module,summary:base.module_im_livechat_mail_bot
-msgid "Add livechat support for OdooBot"
-msgstr "Thêm hỗ trợ livechat cho OdooBot"
+msgid "Add livechat support for XenonBot"
+msgstr "Thêm hỗ trợ livechat cho XenonBot"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_social_sale
@@ -23548,13 +23548,13 @@ msgstr ""
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mail_bot
-msgid "OdooBot"
-msgstr "OdooBot"
+msgid "XenonBot"
+msgstr "XenonBot"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_im_livechat_mail_bot
-msgid "OdooBot for livechat"
-msgstr "Thêm OdooBot hỗ trợ livechat"
+msgid "XenonBot for livechat"
+msgstr "Thêm XenonBot hỗ trợ livechat"
 
 #. module: base
 #: model:res.partner.category,name:base.res_partner_category_12
@@ -28867,10 +28867,10 @@ msgstr "Phương thức này chỉ có thể được truy cập qua HTTP"
 #. module: base
 #: model:ir.module.module,description:base.module_mail_bot_hr
 msgid ""
-"This module adds the OdooBot state and notifications in the user form "
+"This module adds the XenonBot state and notifications in the user form "
 "modified by hr."
 msgstr ""
-"Mô-đun này thêm trạng thái OdooBot và các thông báo trong biểu mẫu người "
+"Mô-đun này thêm trạng thái XenonBot và các thông báo trong biểu mẫu người "
 "dùng được sửa đổi theo giờ."
 
 #. module: base

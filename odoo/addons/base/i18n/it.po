@@ -9073,8 +9073,8 @@ msgstr "Aggiungi lingua"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_mail_bot
-msgid "Add OdooBot in discussions"
-msgstr "Aggiunge OdooBot alle discussioni"
+msgid "Add XenonBot in discussions"
+msgstr "Aggiunge XenonBot alle discussioni"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_sale_subscription_sepa_direct_debit
@@ -9183,8 +9183,8 @@ msgstr ""
 
 #. module: base
 #: model:ir.module.module,summary:base.module_im_livechat_mail_bot
-msgid "Add livechat support for OdooBot"
-msgstr "Aggiunge alla chat dal vivo il supporto per OdooBot"
+msgid "Add livechat support for XenonBot"
+msgstr "Aggiunge alla chat dal vivo il supporto per XenonBot"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_social_sale
@@ -21487,13 +21487,13 @@ msgstr ""
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mail_bot
-msgid "OdooBot"
-msgstr "OdooBot"
+msgid "XenonBot"
+msgstr "XenonBot"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_im_livechat_mail_bot
-msgid "OdooBot for livechat"
-msgstr "OdooBot per chat dal vivo"
+msgid "XenonBot for livechat"
+msgstr "XenonBot per chat dal vivo"
 
 #. module: base
 #: model:res.partner.category,name:base.res_partner_category_12
@@ -26676,10 +26676,10 @@ msgstr "È possibile accedere al metodo solo via HTTP"
 #. module: base
 #: model:ir.module.module,description:base.module_mail_bot_hr
 msgid ""
-"This module adds the OdooBot state and notifications in the user form "
+"This module adds the XenonBot state and notifications in the user form "
 "modified by hr."
 msgstr ""
-"Questo modulo aggiunge lo stato e le notifiche OdooBot nel modulo utente "
+"Questo modulo aggiunge lo stato e le notifiche XenonBot nel modulo utente "
 "modificato da hr."
 
 #. module: base

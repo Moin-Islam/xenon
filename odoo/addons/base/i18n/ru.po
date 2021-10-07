@@ -8795,8 +8795,8 @@ msgstr "Добавить язык"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_mail_bot
-msgid "Add OdooBot in discussions"
-msgstr "Добавить OdooBot в обсуждение"
+msgid "Add XenonBot in discussions"
+msgstr "Добавить XenonBot в обсуждение"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_sale_subscription_sepa_direct_debit
@@ -8899,8 +8899,8 @@ msgstr "Добавить UTM информацию о лиды / возможно
 
 #. module: base
 #: model:ir.module.module,summary:base.module_im_livechat_mail_bot
-msgid "Add livechat support for OdooBot"
-msgstr "Добавьте поддержку живого чата для OdooBot"
+msgid "Add livechat support for XenonBot"
+msgstr "Добавьте поддержку живого чата для XenonBot"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_social_sale
@@ -21060,13 +21060,13 @@ msgstr ""
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mail_bot
-msgid "OdooBot"
-msgstr "OdooBot"
+msgid "XenonBot"
+msgstr "XenonBot"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_im_livechat_mail_bot
-msgid "OdooBot for livechat"
-msgstr "OdooBot для живого чата"
+msgid "XenonBot for livechat"
+msgstr "XenonBot для живого чата"
 
 #. module: base
 #: model:res.partner.category,name:base.res_partner_category_12
@@ -26229,7 +26229,7 @@ msgstr ""
 #. module: base
 #: model:ir.module.module,description:base.module_mail_bot_hr
 msgid ""
-"This module adds the OdooBot state and notifications in the user form "
+"This module adds the XenonBot state and notifications in the user form "
 "modified by hr."
 msgstr ""
 

@@ -10759,8 +10759,8 @@ msgstr "添加语言"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_mail_bot
-msgid "Add OdooBot in discussions"
-msgstr "在讨论中加入OdooBot"
+msgid "Add XenonBot in discussions"
+msgstr "在讨论中加入XenonBot"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_sale_subscription_sepa_direct_debit
@@ -10863,8 +10863,8 @@ msgstr "在群发邮件中添加UTM的主要或机会信息"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_im_livechat_mail_bot
-msgid "Add livechat support for OdooBot"
-msgstr "添加OdooBot实时聊天支持"
+msgid "Add livechat support for XenonBot"
+msgstr "添加XenonBot实时聊天支持"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_social_sale
@@ -23794,13 +23794,13 @@ msgstr "Odoo将自动添加几个“0”在“下一个数字”的左侧以满�
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mail_bot
-msgid "OdooBot"
-msgstr "OdooBot"
+msgid "XenonBot"
+msgstr "XenonBot"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_im_livechat_mail_bot
-msgid "OdooBot for livechat"
-msgstr "即时聊天使用 OdooBot"
+msgid "XenonBot for livechat"
+msgstr "即时聊天使用 XenonBot"
 
 #. module: base
 #: model:res.partner.category,name:base.res_partner_category_12
@@ -29069,9 +29069,9 @@ msgstr "这个方式只能通过HTTP访问"
 #. module: base
 #: model:ir.module.module,description:base.module_mail_bot_hr
 msgid ""
-"This module adds the OdooBot state and notifications in the user form "
+"This module adds the XenonBot state and notifications in the user form "
 "modified by hr."
-msgstr "此模块在按小时修改的用户窗体中添加 OdooBot 状态和通知。"
+msgstr "此模块在按小时修改的用户窗体中添加 XenonBot 状态和通知。"
 
 #. module: base
 #: model:ir.module.module,description:base.module_website_hr_recruitment

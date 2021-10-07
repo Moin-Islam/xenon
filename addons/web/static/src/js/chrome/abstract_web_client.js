@@ -107,7 +107,7 @@ odoo.define("web.AbstractWebClient", function (require) {
       this._current_state = null;
       this.menu_dp = new concurrency.DropPrevious();
       this.action_mutex = new concurrency.Mutex();
-      this.set("title_part", { zopenerp: "LUX erp" });
+      this.set("title_part", { zopenerp: "Xenon" });
       this.env = env;
       this.env.bus.on("set_title_part", this, this._onSetTitlePart);
     },

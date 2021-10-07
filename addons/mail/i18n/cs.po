@@ -998,8 +998,8 @@ msgstr "Avatar"
 #. openerp-web
 #: code:addons/mail/static/src/components/notification_request/notification_request.xml:0
 #, python-format
-msgid "Avatar of OdooBot"
-msgstr "Avatar OdooBotu"
+msgid "Avatar of XenonBot"
+msgstr "Avatar XenonBotu"
 
 #. module: mail
 #. openerp-web

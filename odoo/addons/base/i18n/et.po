@@ -8988,8 +8988,8 @@ msgstr "Lisa keel"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_mail_bot
-msgid "Add OdooBot in discussions"
-msgstr "Lisa OdooBot aruteludesse"
+msgid "Add XenonBot in discussions"
+msgstr "Lisa XenonBot aruteludesse"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_sale_subscription_sepa_direct_debit
@@ -9093,8 +9093,8 @@ msgstr "Lisa müügivihje / võimaluste UTM info masspostitustele."
 
 #. module: base
 #: model:ir.module.module,summary:base.module_im_livechat_mail_bot
-msgid "Add livechat support for OdooBot"
-msgstr "Lisage OdooBoti otse-vestluse tugi."
+msgid "Add livechat support for XenonBot"
+msgstr "Lisage XenonBoti otse-vestluse tugi."
 
 #. module: base
 #: model:ir.module.module,summary:base.module_social_sale
@@ -20881,13 +20881,13 @@ msgstr ""
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mail_bot
-msgid "OdooBot"
-msgstr "OdooBot"
+msgid "XenonBot"
+msgstr "XenonBot"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_im_livechat_mail_bot
-msgid "OdooBot for livechat"
-msgstr "OdooBot livechatile"
+msgid "XenonBot for livechat"
+msgstr "XenonBot livechatile"
 
 #. module: base
 #: model:res.partner.category,name:base.res_partner_category_12
@@ -25988,10 +25988,10 @@ msgstr "Sellele meetodile saab ainult läbi HTTP ligi"
 #. module: base
 #: model:ir.module.module,description:base.module_mail_bot_hr
 msgid ""
-"This module adds the OdooBot state and notifications in the user form "
+"This module adds the XenonBot state and notifications in the user form "
 "modified by hr."
 msgstr ""
-"See moodul lisab hr poolt modifitseeritud OdooBoti staatuse ja märguanded "
+"See moodul lisab hr poolt modifitseeritud XenonBoti staatuse ja märguanded "
 "kasutaja vormi."
 
 #. module: base

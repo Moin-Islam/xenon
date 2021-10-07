@@ -249,13 +249,13 @@ function factory(dependencies) {
             }
             // In all other cases: update counter and notify if necessary
 
-            // Chat from OdooBot is considered disturbing and should only be
+            // Chat from XenonBot is considered disturbing and should only be
             // shown on the menu, but no notification and no thread open.
-            const isChatWithOdooBot = (
+            const isChatWithXenonBot = (
                 channel.correspondent &&
                 channel.correspondent === this.env.messaging.partnerRoot
             );
-            if (!isChatWithOdooBot) {
+            if (!isChatWithXenonBot) {
                 const isOdooFocused = this.env.services['bus_service'].isOdooFocused();
                 // Notify if out of focus
                 if (!isOdooFocused && channel.isChatChannel) {
