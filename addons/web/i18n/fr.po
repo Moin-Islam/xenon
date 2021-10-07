@@ -3264,7 +3264,7 @@ msgstr "Créé avec %s%s"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span> Lux Sourcing</span>"
+msgid "Powered by <span> Xenon</span>"
 msgstr "Propulsé par <span>Odoo</span>"
 
 #. module: web

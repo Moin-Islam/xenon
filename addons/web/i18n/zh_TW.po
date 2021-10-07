@@ -3163,7 +3163,7 @@ msgstr "源自 %s%s"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span> Lux Sourcing</span>"
+msgid "Powered by <span> Xenon</span>"
 msgstr "由<span>Odoo</span>提供支援"
 
 #. module: web

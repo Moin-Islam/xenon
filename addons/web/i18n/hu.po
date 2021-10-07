@@ -3165,7 +3165,7 @@ msgstr ""
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span> Lux Sourcing</span>"
+msgid "Powered by <span> Xenon</span>"
 msgstr "Támogatja az <span>Odoo</span>"
 
 #. module: web

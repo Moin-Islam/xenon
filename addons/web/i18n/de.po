@@ -3252,7 +3252,7 @@ msgstr "Angetrieben von %s%s"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span> Lux Sourcing</span>"
+msgid "Powered by <span> Xenon</span>"
 msgstr "Ein System von <span>Odoo</span>"
 
 #. module: web

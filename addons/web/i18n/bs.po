@@ -2572,8 +2572,8 @@ msgstr "Molimo koristite dugme kopiraj da prijavite grešku vašoj podršci."
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span> Lux Sourcing</span>"
-msgstr "Powered by <span> Lux Sourcing</span>"
+msgid "Powered by <span> Xenon</span>"
+msgstr "Powered by <span> Xenon</span>"
 
 #. module: web
 #. openerp-web
