@@ -892,7 +892,7 @@ QUnit.test('<br/> tags in message body preview are transformed in spaces', async
     );
 });
 
-QUnit.test('rendering with XenonBot has a request (default)', async function (assert) {
+QUnit.test('rendering with erpBot has a request (default)', async function (assert) {
     assert.expect(4);
 
     await this.start({
@@ -907,7 +907,7 @@ QUnit.test('rendering with XenonBot has a request (default)', async function (as
 
     assert.ok(
         document.querySelector('.o_MessagingMenu_counter'),
-        "should display a notification counter next to the messaging menu for XenonBot request"
+        "should display a notification counter next to the messaging menu for erpBot request"
     );
     assert.strictEqual(
         document.querySelector('.o_MessagingMenu_counter').textContent,
@@ -925,12 +925,12 @@ QUnit.test('rendering with XenonBot has a request (default)', async function (as
     );
     assert.strictEqual(
         document.querySelector('.o_NotificationRequest_name').textContent.trim(),
-        'XenonBot has a request',
-        "notification should display that XenonBot has a request"
+        'erpBot has a request',
+        "notification should display that erpBot has a request"
     );
 });
 
-QUnit.test('rendering without XenonBot has a request (denied)', async function (assert) {
+QUnit.test('rendering without erpBot has a request (denied)', async function (assert) {
     assert.expect(2);
 
     await this.start({
@@ -959,7 +959,7 @@ QUnit.test('rendering without XenonBot has a request (denied)', async function (
     );
 });
 
-QUnit.test('rendering without XenonBot has a request (accepted)', async function (assert) {
+QUnit.test('rendering without erpBot has a request (accepted)', async function (assert) {
     assert.expect(2);
 
     await this.start({

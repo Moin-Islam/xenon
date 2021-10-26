@@ -11,7 +11,7 @@ registerInstancePatchModel('mail.messaging_initializer', 'mail_bot/static/src/mo
     /**
      * @private
      */
-    async _initializeXenonBot() {
+    async _initializeerpBot() {
         const data = await this.async(() => this.env.services.rpc({
             model: 'mail.channel',
             method: 'init_odoobot',
@@ -29,7 +29,7 @@ registerInstancePatchModel('mail.messaging_initializer', 'mail_bot/static/src/mo
         await this.async(() => this._super());
 
         if ('odoobot_initialized' in this.env.session && !this.env.session.odoobot_initialized) {
-            this._initializeXenonBot();
+            this._initializeerpBot();
         }
     },
 });

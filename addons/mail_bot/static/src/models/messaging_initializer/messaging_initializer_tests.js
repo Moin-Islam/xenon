@@ -24,9 +24,9 @@ QUnit.module('messaging_initializer_tests.js', {
 });
 
 
-QUnit.test('XenonBot initialized at init', async function (assert) {
+QUnit.test('erpBot initialized at init', async function (assert) {
     // TODO this test should be completed in combination with
-    // implementing _mockMailChannelInitXenonBot task-2300480
+    // implementing _mockMailChannelIniterpBot task-2300480
     assert.expect(2);
 
     await this.start({
@@ -45,7 +45,7 @@ QUnit.test('XenonBot initialized at init', async function (assert) {
 
     assert.verifySteps(
         ['init_odoobot'],
-        "should have initialized XenonBot at init"
+        "should have initialized erpBot at init"
     );
 });
 

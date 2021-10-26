@@ -10676,8 +10676,8 @@ msgstr "Añadir Idioma"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_mail_bot
-msgid "Add XenonBot in discussions"
-msgstr "Añadir XenonBot en las conversaciones"
+msgid "Add erpBot in discussions"
+msgstr "Añadir erpBot en las conversaciones"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_sale_subscription_sepa_direct_debit
@@ -10783,8 +10783,8 @@ msgstr "Añade información UTM de leads / oportunidades en correo masivo."
 
 #. module: base
 #: model:ir.module.module,summary:base.module_im_livechat_mail_bot
-msgid "Add livechat support for XenonBot"
-msgstr "Añade soporte de chat en línea para XenonBot"
+msgid "Add livechat support for erpBot"
+msgstr "Añade soporte de chat en línea para erpBot"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_social_sale
@@ -24069,13 +24069,13 @@ msgstr ""
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mail_bot
-msgid "XenonBot"
-msgstr "XenonBot"
+msgid "erpBot"
+msgstr "erpBot"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_im_livechat_mail_bot
-msgid "XenonBot for livechat"
-msgstr "XenonBot para chat en vivo"
+msgid "erpBot for livechat"
+msgstr "erpBot para chat en vivo"
 
 #. module: base
 #: model:res.partner.category,name:base.res_partner_category_12
@@ -29499,10 +29499,10 @@ msgstr "Solo se puede acceder a este método mediante HTTP"
 #. module: base
 #: model:ir.module.module,description:base.module_mail_bot_hr
 msgid ""
-"This module adds the XenonBot state and notifications in the user form "
+"This module adds the erpBot state and notifications in the user form "
 "modified by hr."
 msgstr ""
-"Este módulo agrega estado y notificaciones al XenonBot en los formularios de "
+"Este módulo agrega estado y notificaciones al erpBot en los formularios de "
 "usuario que modificó RRHH"
 
 #. module: base

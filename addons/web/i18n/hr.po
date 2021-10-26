@@ -3222,7 +3222,7 @@ msgstr "Pokreće %s%s"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span> Xenon</span>"
+msgid "Powered by <span> erp</span>"
 msgstr "Podržano od <span>Odoo</span>"
 
 #. module: web

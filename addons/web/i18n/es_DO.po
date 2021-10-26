@@ -1967,8 +1967,8 @@ msgstr "Powered by"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span> Xenon</span>"
-msgstr "Powered by <span> Xenon</span>"
+msgid "Powered by <span> erp</span>"
+msgstr "Powered by <span> erp</span>"
 
 #. module: web
 #. openerp-web

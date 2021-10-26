@@ -9819,8 +9819,8 @@ msgstr "Sprache hinzufügen"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_mail_bot
-msgid "Add XenonBot in discussions"
-msgstr "XenonBot in Diskussionen hinzufügen"
+msgid "Add erpBot in discussions"
+msgstr "erpBot in Diskussionen hinzufügen"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_sale_subscription_sepa_direct_debit
@@ -9926,8 +9926,8 @@ msgstr ""
 
 #. module: base
 #: model:ir.module.module,summary:base.module_im_livechat_mail_bot
-msgid "Add livechat support for XenonBot"
-msgstr "Füge Livechat-Unterstützung für XenonBot hinzu"
+msgid "Add livechat support for erpBot"
+msgstr "Füge Livechat-Unterstützung für erpBot hinzu"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_social_sale
@@ -22427,13 +22427,13 @@ msgstr ""
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mail_bot
-msgid "XenonBot"
-msgstr "XenonBot"
+msgid "erpBot"
+msgstr "erpBot"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_im_livechat_mail_bot
-msgid "XenonBot for livechat"
-msgstr "XenonBot für livechat"
+msgid "erpBot for livechat"
+msgstr "erpBot für livechat"
 
 #. module: base
 #: model:res.partner.category,name:base.res_partner_category_12
@@ -27634,7 +27634,7 @@ msgstr ""
 #. module: base
 #: model:ir.module.module,description:base.module_mail_bot_hr
 msgid ""
-"This module adds the XenonBot state and notifications in the user form "
+"This module adds the erpBot state and notifications in the user form "
 "modified by hr."
 msgstr ""
 

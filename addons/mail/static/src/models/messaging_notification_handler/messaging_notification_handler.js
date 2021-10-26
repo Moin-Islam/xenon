@@ -249,13 +249,13 @@ function factory(dependencies) {
             }
             // In all other cases: update counter and notify if necessary
 
-            // Chat from XenonBot is considered disturbing and should only be
+            // Chat from erpBot is considered disturbing and should only be
             // shown on the menu, but no notification and no thread open.
-            const isChatWithXenonBot = (
+            const isChatWitherpBot = (
                 channel.correspondent &&
                 channel.correspondent === this.env.messaging.partnerRoot
             );
-            if (!isChatWithXenonBot) {
+            if (!isChatWitherpBot) {
                 const isOdooFocused = this.env.services['bus_service'].isOdooFocused();
                 // Notify if out of focus
                 if (!isOdooFocused && channel.isChatChannel) {

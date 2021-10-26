@@ -3223,7 +3223,7 @@ msgstr "На базе %s%s"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.login_layout
-msgid "Powered by <span> Xenon</span>"
+msgid "Powered by <span> erp</span>"
 msgstr "На базе <span>Odoo</span>"
 
 #. module: web

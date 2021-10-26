@@ -13,7 +13,7 @@ MockServer.include({
      */
     async _performRpc(route, args) {
         if (args.model === 'mail.channel' && args.method === 'init_odoobot') {
-            return this._mockMailChannelInitXenonBot();
+            return this._mockMailChannelIniterpBot();
         }
         return this._super(...arguments);
     },
@@ -27,9 +27,9 @@ MockServer.include({
      *
      * @private
      */
-    _mockMailChannelInitXenonBot() {
+    _mockMailChannelIniterpBot() {
         // TODO implement this mock task-2300480
-        // and improve test "XenonBot initialized after 2 minutes"
+        // and improve test "erpBot initialized after 2 minutes"
     },
 });
 

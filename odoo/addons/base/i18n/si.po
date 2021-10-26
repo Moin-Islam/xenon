@@ -7146,7 +7146,7 @@ msgstr ""
 
 #. module: base
 #: model:ir.module.module,summary:base.module_mail_bot
-msgid "Add XenonBot in discussions"
+msgid "Add erpBot in discussions"
 msgstr ""
 
 #. module: base
@@ -7250,7 +7250,7 @@ msgstr ""
 
 #. module: base
 #: model:ir.module.module,summary:base.module_im_livechat_mail_bot
-msgid "Add livechat support for XenonBot"
+msgid "Add livechat support for erpBot"
 msgstr ""
 
 #. module: base
@@ -18844,12 +18844,12 @@ msgstr ""
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mail_bot
-msgid "XenonBot"
+msgid "erpBot"
 msgstr ""
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_im_livechat_mail_bot
-msgid "XenonBot for livechat"
+msgid "erpBot for livechat"
 msgstr ""
 
 #. module: base
@@ -23828,7 +23828,7 @@ msgstr ""
 #. module: base
 #: model:ir.module.module,description:base.module_mail_bot_hr
 msgid ""
-"This module adds the XenonBot state and notifications in the user form "
+"This module adds the erpBot state and notifications in the user form "
 "modified by hr."
 msgstr ""
 

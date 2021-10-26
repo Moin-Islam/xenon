@@ -2,10 +2,10 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'XenonBot',
+    'name': 'erpBot',
     'version': '1.2',
     'category': 'Productivity/Discuss',
-    'summary': 'Add XenonBot in discussions',
+    'summary': 'Add erpBot in discussions',
     'description': "",
     'website': 'https://www.odoo.com/page/discuss',
     'depends': ['mail'],

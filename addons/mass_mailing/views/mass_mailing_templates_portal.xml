@@ -123,7 +123,7 @@
             </t>
             <body class="o_white_body">
                 <header>
-                    <div><title>Xenon</title></div>
+                    <div><title>erp</title></div>
                     <div class="text-center">
                         <img t-attf-src="/web/binary/company_logo?company={{ res_company.id }}"/>
                     </div>

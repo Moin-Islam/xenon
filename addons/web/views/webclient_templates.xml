@@ -442,7 +442,7 @@
     <template id="web.layout" name="Web layout">&lt;!DOCTYPE html&gt;
         <html t-att="html_data or {}">
             <head>
-                <title>Xenon</title>
+                <title>erp</title>
 
                 <meta charset="utf-8"/>
                 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
@@ -458,7 +458,7 @@
                 </script>
 
                 <t t-raw="head or ''"/>
-                <title>Xenon</title>
+                <title>erp</title>
 
             </head>
             <body t-att-class="body_classname">

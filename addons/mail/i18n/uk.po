@@ -1020,8 +1020,8 @@ msgstr "Аватар"
 #. openerp-web
 #: code:addons/mail/static/src/components/notification_request/notification_request.xml:0
 #, python-format
-msgid "Avatar of XenonBot"
-msgstr "Аватар XenonBot"
+msgid "Avatar of erpBot"
+msgstr "Аватар erpBot"
 
 #. module: mail
 #. openerp-web

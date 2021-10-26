@@ -315,7 +315,7 @@ class HrEmployeePrivate(models.Model):
     def _post_author(self):
         """
         When a user updates his own employee's data, all operations are performed
-        by super user. However, tracking messages should not be posted as XenonBot
+        by super user. However, tracking messages should not be posted as erpBot
         but as the actual user.
         This method is used in the overrides of `_message_log` and `message_post`
         to post messages as the correct user.

@@ -10630,8 +10630,8 @@ msgstr "Tilføj sprog"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_mail_bot
-msgid "Add XenonBot in discussions"
-msgstr "Tilføj XenonBot til diskussioner"
+msgid "Add erpBot in discussions"
+msgstr "Tilføj erpBot til diskussioner"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_sale_subscription_sepa_direct_debit
@@ -10736,8 +10736,8 @@ msgstr "Tilføj kundeemne / muligheder UTM info til masse mailing"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_im_livechat_mail_bot
-msgid "Add livechat support for XenonBot"
-msgstr "Tilføj livechat understøttelse for XenonBot"
+msgid "Add livechat support for erpBot"
+msgstr "Tilføj livechat understøttelse for erpBot"
 
 #. module: base
 #: model:ir.module.module,summary:base.module_social_sale
@@ -23772,13 +23772,13 @@ msgstr ""
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_mail_bot
-msgid "XenonBot"
-msgstr "XenonBot"
+msgid "erpBot"
+msgstr "erpBot"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_im_livechat_mail_bot
-msgid "XenonBot for livechat"
-msgstr "XenonBot til livechat"
+msgid "erpBot for livechat"
+msgstr "erpBot til livechat"
 
 #. module: base
 #: model:res.partner.category,name:base.res_partner_category_12
@@ -29140,10 +29140,10 @@ msgstr "Denne metode kan kun tilgås via HTTP"
 #. module: base
 #: model:ir.module.module,description:base.module_mail_bot_hr
 msgid ""
-"This module adds the XenonBot state and notifications in the user form "
+"This module adds the erpBot state and notifications in the user form "
 "modified by hr."
 msgstr ""
-"Dette modul tilføjer XenonBot tilstanden samt notifikationer i bruger "
+"Dette modul tilføjer erpBot tilstanden samt notifikationer i bruger "
 "formularen redigeret af HR."
 
 #. module: base
