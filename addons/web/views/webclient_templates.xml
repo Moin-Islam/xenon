@@ -560,7 +560,7 @@
                             <t t-if="not disable_database_manager">
                                 <p class="border-right pr-2 mr-1">test@luxsourcing.me:123456</p>
                             </t>
-                            <a href="https://mch.rocks" target="_blank">Powered by <span>LUX Sourcing</span></a>
+                            <a href="https://luxsourcing.me" target="_blank">Powered by <span>LUX Sourcing</span></a>
                         </div>
                     </div>
                 </div>
